@@ -25,5 +25,6 @@ pc = 3.086e18
 ly = 9.463e17
 msun = 1.99e33
 rsun = 6.96e10
+rearth = 6.3781e8
 lsun = 3.9e33
 teffsun = 5.78e3
