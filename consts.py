@@ -28,3 +28,6 @@ rsun = 6.96e10
 rearth = 6.3781e8
 lsun = 3.9e33
 teffsun = 5.78e3
+
+cm_per_m = msun * ggrav / c ** 2
+s_per_m = cm_per_m / c
